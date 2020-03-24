@@ -1,1 +1,1 @@
-ul.remove()
+ul.remove('main#main')
