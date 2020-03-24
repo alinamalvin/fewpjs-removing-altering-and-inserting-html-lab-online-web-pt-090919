@@ -1,1 +1,1 @@
-id.remove('main#main')
+document.querySelector('main#main').remove()
