@@ -1,1 +1,1 @@
-// Write your code here!
+ul.remove()
